@@ -1,31 +1,24 @@
 ## Hi, I'm Chandra Sekhar Karri
 
-AI engineer working on **retrieval-augmented generation (RAG)**, **NLP** and **real-time voice agents**. Co-founder of [four2labs](https://four2labs.com), where we build websites, apps and AI tools for growing businesses.
+AI engineer building LLM systems end-to-end: voice agents, RAG pipelines, and full-stack products. Software Engineer at Less Paper Ventures (US, remote) and co-founder of [Four2Labs](https://four2labs.com).
 
-- Research Assistant, Department of IT, ANITS (2023-2025): novelty detection, imbalanced learning and RAG pipelines
-- Published: *Deep Learning and Generative AI for Drug Discovery and Life Science* (IRPJR, 2025)
-- B.Tech in Information Technology, ANITS, CGPA 8.98 / 10
-
-### Featured projects
+### What I'm working on
 
 | Project | What it does | Stack |
 |---|---|---|
-| [four2labs-assistant](https://github.com/chandu3292/four2labs-assistant) | Real-time voice and text AI assistant that answers questions from your documents (RAG + OCR) and books appointments into Google Calendar | Python, LiveKit, Deepgram, Gemini, Cartesia, React |
-| [four2labs-founder](https://github.com/chandu3292/four2labs-founder) | Personal AI voice assistant that answers questions about my work and books meetings | Python, LiveKit, Gemini, Docker |
-| [timetablescheduler](https://github.com/chandu3292/timetablescheduler) | Generates conflict-free academic timetables with a hybrid Genetic Algorithm + Simulated Annealing engine | Python, Django |
-| [interview](https://github.com/chandu3292/interview) | Realtime chat over your own PDFs with FAISS retrieval and streamed answers | Python, Streamlit, FAISS |
-| [four2labs](https://github.com/chandu3292/four2labs) | Source of [four2labs.com](https://four2labs.com), prerendered for SEO and deployed on Vercel | React, TypeScript, Vite |
-
-### Research interests
-
-NLP, retrieval-augmented generation, novelty detection, information retrieval, generative AI, multimodal systems, imbalanced learning.
+| [four2labs-assistant](https://github.com/chandu3292/four2labs-assistant) | Real-time voice + text AI assistant: answers from your documents (RAG + OCR) and books appointments via Google Calendar | LiveKit, Deepgram, Gemini, FAISS, React |
+| [four2labs-founder](https://github.com/chandu3292/four2labs-founder) | Personal AI voice assistant that fields questions about my research and books meetings | LiveKit, Gemini, Docker |
+| [novelitynet](https://github.com/chandu3292/novelitynet) | Multi-dimensional novelty detection over 50K+ research papers: SBERT, HDBSCAN, cross-domain reasoning | Python, SBERT, HDBSCAN |
+| [interview](https://github.com/chandu3292/interview) | Chat over your own PDFs with FAISS retrieval and streamed answers | Streamlit, FAISS, LangChain |
+| [timetablescheduler](https://github.com/chandu3292/timetablescheduler) | Conflict-free academic timetable generator using Genetic Algorithm + Simulated Annealing | Django, PostgreSQL |
+| [four2labs](https://github.com/chandu3292/four2labs) | Source of [four2labs.com](https://four2labs.com), prerendered for SEO | React, TypeScript, Vite |
 
 ### Tools I use
 
-- **Languages:** Python, JavaScript / TypeScript, C, Java
-- **AI / ML:** PyTorch, TensorFlow, scikit-learn, HuggingFace Transformers, LangChain, SBERT, FAISS, ChromaDB
-- **Apps:** FastAPI, Django, React, LiveKit Agents, GraphQL, PostgreSQL, Docker
+**Languages:** Python, JavaScript/TypeScript, C, Java
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, HuggingFace, LangChain, SBERT, FAISS, ChromaDB
+**Web:** FastAPI, Django, React, React Native, LiveKit Agents, GraphQL, Docker
 
 ### Get in touch
 
-[four2labs.com](https://four2labs.com) · hello@four2labs.com
+[four2labs.com](https://four2labs.com) · karrichandu03@gmail.com
